@@ -3,3 +3,5 @@ New things I have learned in Bloc:
 -JavaScript
 -Abstract Problem Solving
 -Frameworks
+-CSS
+-HTML
